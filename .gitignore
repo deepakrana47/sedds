@@ -1,3 +1,5 @@
 /workspace.xml
 .idea/*
 lib/__pycache__/*
+.venv
+app-logs
